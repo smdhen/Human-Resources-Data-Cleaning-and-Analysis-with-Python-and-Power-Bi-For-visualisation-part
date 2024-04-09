@@ -15,19 +15,19 @@
 This project is dedicated to analyzing human resource data for a company. The initial phase focuses on data cleaning using Python.
 
 Once the data is clean , the next phase involves  analysis using Pandas.
+
 Furthermore, the project incorporates the visualization aspect using [Power Bi](https://learn.microsoft.com/fr-fr/power-bi/). 
 
 ### Data description
 ![Screenshot from 2024-04-09 00-18-25](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/dfa23e01-3269-47f5-b065-a2fbb9b32a67)
 
-termdat :  is termination date it could either be the employees terminated or fired or employee quit.Nat Values means that employees still work.
-
+termdat :  The termination date in the dataset signifies various employment outcomes, including termination by the employer, voluntary resignation by the employee, or dismissal. When the termination date is represented as NaT (Not a Time), it indicates that the employee is currently still employed and has not yet undergone any termination process.
 
 ### Tools
 
 1. Python : Data Cleaning 
 2. Data Cleaning : [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#grouping)
-3. Power-bi : Creating Reorts
+3. Power-bi : Creating Reports
 
 ### Data Cleaning
 
@@ -37,7 +37,7 @@ This involves handling missing values, removing duplicates,removing inutil data,
 
 The Analysis will be done Using Pandas By answering variouse questions. Various statistical techniques and methodologies are applied to uncover patterns, trends.
 
-#### question Are 
+#### Questions Are 
 
     What is the gender breakdown of employees in the company?
     What is the race/ethnicity breakdown of employees in the company?
@@ -56,6 +56,6 @@ The Analysis will be done Using Pandas By answering variouse questions. Various 
 ### Summary
 This analysis provides valuable insights into workforce demographics, employee performance, retention rates, and other key HR metrics.
 ### Ref
-[Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project is done but Usin SQL and Power Bi
+[Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project has been done but Usin SQL and Power Bi by Irene-arch 
 
-[github Repository](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI)
+[Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch 
