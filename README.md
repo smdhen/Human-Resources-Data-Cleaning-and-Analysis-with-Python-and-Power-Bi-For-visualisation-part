@@ -14,9 +14,8 @@
 
 ![rh](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/973c54bb-8647-41c7-88da-c43eaea1e17b)
 
-
 <p align="center">
-<img src="[https://github.com/smdhen/Pictures-Match-Memory-Game/assets/96498289/2392c98f-6c76-49b0-b4a7-c653ea9fd1ee](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/203f5bd7-9138-43cd-83b6-8693023d8bd7)" width="200"/> 
+<img src="https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/973c54bb-8647-41c7-88da-c43eaea1e17b" width="200"/> 
 </p>
 
 This project is dedicated to analyzing human resource data for a company. The initial phase focuses on data cleaning using Python.
