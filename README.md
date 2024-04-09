@@ -60,12 +60,13 @@ The Analysis will be done Using Pandas By answering variouse questions. Various 
     15- How does the hiring of employees compare to the employees who have quit over the years, categorized by gender?
     16- What is the average age of employees hired by the company, categorized by gender?
     17- What is the average age of employees who have quit the company, categorized by gender?
-    
+
+These questions encompass various aspects of employee demographics, turnover rates, hiring trends, and tenure distribution, providing a comprehensive understanding of the workforce dynamics within the company.
 
 ### Dashboard analysis with Powerbi
 
 ### Summary
-This analysis provides valuable insights into workforce demographics, employee performance, retention rates, and other key HR metrics.
+This analysis provides valuable insights into workforce demographics, employee performance, retention rates.
 ### Ref
 [Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project has been done but Usin SQL and Power Bi by Irene-arch 
 
