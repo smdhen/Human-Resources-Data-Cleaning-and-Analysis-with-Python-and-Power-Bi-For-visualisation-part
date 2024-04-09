@@ -6,7 +6,7 @@
 - [Tools](#tools)
 - [Data Cleaning](#Data-cleaning)
 - [Data Analysis (Questions)](#data-analysis)
-- [Dashboard analysis with Powerbi](#dashboard-analysis-ideas)
+- [Dashboard analysis with Powerbi](#dashboard-analysis-with-powerbi)
 - [Summary](#summary)
 - [Ref](#ref)
 
