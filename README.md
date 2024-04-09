@@ -12,6 +12,7 @@
 
 ### Project Overview
 
+![rh](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/973c54bb-8647-41c7-88da-c43eaea1e17b)
 
 
 <p align="center">
