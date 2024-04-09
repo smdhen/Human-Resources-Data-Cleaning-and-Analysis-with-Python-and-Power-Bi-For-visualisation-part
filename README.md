@@ -13,7 +13,7 @@
 ### Project Overview
 
 <p align="center">
-<img src="https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/973c54bb-8647-41c7-88da-c43eaea1e17b" width="800"/> 
+<img src="https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/973c54bb-8647-41c7-88da-c43eaea1e17b" width="500"/> 
 </p>
 
 This project is dedicated to analyzing human resource data for a company. The initial phase focuses on data cleaning using Python.
