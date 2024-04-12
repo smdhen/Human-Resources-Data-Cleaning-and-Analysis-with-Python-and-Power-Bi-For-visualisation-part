@@ -1,4 +1,4 @@
-# Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part
+# Human Resources Data Cleaning and Analysis with Python and Power Bi For visualisation part.
 
 ## Table of contents
 - [Project Overview](#project-overview)
