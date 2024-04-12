@@ -1,4 +1,4 @@
-![Capture_3](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/b766a296-290a-4f01-9971-aa95a682bbc0)# Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part
+# Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part
 
 ## Table of contents
 - [Project Overview](#project-overview)
@@ -77,6 +77,5 @@ This analysis provides valuable insights into workforce demographics, employee p
 ### Ref
 [Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project has been done but Usin SQL and Power Bi by Irene-arch 
 
-[comment]: # ([Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch)
 
-]]
+[]([Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch)
