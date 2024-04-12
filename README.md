@@ -1,4 +1,4 @@
-# Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part
+![Capture_3](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/b766a296-290a-4f01-9971-aa95a682bbc0)# Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part
 
 ## Table of contents
 - [Project Overview](#project-overview)
@@ -65,9 +65,18 @@ These questions encompass various aspects of employee demographics, turnover rat
 
 ### Dashboard analysis with Powerbi
 
+![Capture_0](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/4a6fd52d-9156-4748-a4f7-88b9172a6035)
+
+![Capture_1](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/75e6d373-fec6-4209-a3b9-2b57432676f5)
+
+![Capture_3](https://github.com/smdhen/Human-Resources-Data-Cleaning-and-Analysis-with-Python-and-Power-Bi-For-visualisation-part/assets/96498289/b7487efa-88d6-4998-b334-cba1093f9ae4)
+
 ### Summary
+
 This analysis provides valuable insights into workforce demographics, employee performance, retention rates.
 ### Ref
 [Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project has been done but Usin SQL and Power Bi by Irene-arch 
 
-[Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch 
+[comment]: # ([Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch)
+
+]]
