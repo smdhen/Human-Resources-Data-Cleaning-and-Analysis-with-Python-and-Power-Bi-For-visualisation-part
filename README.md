@@ -77,5 +77,7 @@ This analysis provides valuable insights into workforce demographics, employee p
 ### Ref
 [Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project has been done but Usin SQL and Power Bi by Irene-arch 
 
+<!---
+Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch
+-->
 
-[]([Github](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI) Repository by  Irene-arch)
