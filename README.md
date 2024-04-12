@@ -73,7 +73,21 @@ These questions encompass various aspects of employee demographics, turnover rat
 
 ### Summary
 
-This analysis provides valuable insights into workforce demographics, employee performance, retention rates.
+Conclusions from the HR data analysis:
+
+1. The gender distribution among employees is approximately balanced, although males are slightly more predominant.
+2. A significant majority, over 70%, of employees work at headquarters.
+3. Ohio stands out as the state with the highest number of employees.
+4. The average length of employment is approximately 7 years, indicating that employees typically stay with the company for this duration before leaving.
+5. There is a noticeable upward trend in the net change percentage of employees over the years.
+6. The average age of employees is 39 years old, with the oldest being 58 and the youngest being 21.
+7. More than 75% of employees are aged 48 years or older.
+8. Males are both hired and terminated (or departed) more frequently than females.
+9. From 2000 to 2020, the number of hired employees ranged between 380 and 478 for both genders.
+10. The number of terminated or departed employees has seen a decrease over the years.
+11. The auditing department experiences the highest frequency of terminations, indicating potential areas for improvement in employee retention strategies. Conversely, the sales department boasts the longest average tenure among employees, highlighting the department's stability and possibly effective management practices.
+
+This analysis provides valuable insights into workforce demographics, employee performance, terminated rates.tenur and more.
 ### Ref
 [Youtube](https://www.youtube.com/watch?v=PzyZI9uLXvY&t=1040s) Link to Vidio where this project has been done but Usin SQL and Power Bi by Irene-arch 
 
